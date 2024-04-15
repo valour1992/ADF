@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: 'Coles-Private-Hosted-Linux-NonProd-Scalable'
+pool: 'AUS-Private-Hosted-Linux-NonProd-Scalable'
 
 # - task: TerraformInstaller@1
 #   inputs:
